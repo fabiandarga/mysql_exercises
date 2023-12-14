@@ -5,7 +5,7 @@ Create a new database for this exercise.
 ```
 CREATE DATABASE exercise_online_shop
 use exercise_online_shop
-``
+```
 
 ## Create the product table
 Create a table named **products** with the following columns:  
